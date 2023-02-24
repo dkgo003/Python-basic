@@ -3,6 +3,19 @@
 # 파이썬 완전 기초
 # Print 사용법
 
+"""
+참고 : Escape 코드
+
+\n : 개행
+\t : 탭
+\\ : 문자
+\' : 문자
+\" : 문자
+\000 : 널 문자
+...
+
+"""
+
 # 기본 출력
 print('Python Start!') # 선호
 print("Python Start!")
